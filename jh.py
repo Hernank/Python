@@ -1,2 +1,2 @@
-de hola(j):
+def hola(j):
   print j
